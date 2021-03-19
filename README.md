@@ -8,8 +8,8 @@ The outline for the Retail Markdown Game is as follows:
 ### Objective: To develop a generic markdown pricing strategy for a retailer to maximize the total revenue when selling some inventory over a limited time period (i.e. at the end of week 15).
 
 ### Given Data:
-<br>• The initial stock is 2000 units
-• The price is set at $60 for the first week
+• The initial stock is 2000 units
+<br>• The price is set at $60 for the first week
 • The stock left-over at the end of the 15 weeks is lost i.e. there is no salvage value
 • There are no other costs involved since the production costs for the items are already sunk
 

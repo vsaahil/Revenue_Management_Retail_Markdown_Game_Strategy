@@ -1,4 +1,4 @@
-# Revenue_Management_Retail_Markdown_Game_Strategy
+# Revenue Management - Retail Markdown Game Strategy
 
 Revenue Management in the retail industry is comprised of a number of crucial factors such as budget, product price, and demand forecasting, and strategies outlining how to implement markdowns and where original prices should be reduced to increase sales over time. Unlike promotional discounts, which are mostly temporary and target customer-segment strategies, a markdown is when a retailer permanently lowers the price of a product with the intention of driving sales. Overbuying is one of the major concerns in the retail industry and markdowns are specifically used to eliminate this problem and increase revenue. This report employs The Retail Markdown Game to learn the best way to manage markdowns by testing out different algorithms. 
 The outline for the Retail Markdown Game is as follows:

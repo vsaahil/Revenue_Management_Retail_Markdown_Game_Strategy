@@ -20,7 +20,7 @@ The outline for the Retail Markdown Game is as follows:
 <br>• Remaining Inventory: The inventory remaining at the end of the week
 
 ### Methodology:
-1. Data Extraction, Pre-processing and Exploration
+<br>1. Data Extraction, Pre-processing and Exploration
 <br>2. Developing Algorithms
 	<br>(A) Matrix Approach
 	<br>(B) Linear Optimization
